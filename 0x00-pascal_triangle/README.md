@@ -2,4 +2,4 @@
 ***
 ## Pascal triangle
 ***
-![pascal](pascal tri.png)
+![pascal](pascal%20tri.png)
