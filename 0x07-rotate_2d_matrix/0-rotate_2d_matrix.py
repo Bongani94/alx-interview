@@ -1,10 +1,12 @@
 #!/usr/bin/python3
+"""
+You can assume the matrix will have 2 dimensions
+"""
 
 
 def rotate_2d_matrix(matrix):
     """
     Do not return anything, modify matrix in-place instead.
-    You can assume the matrix will have 2 dimensions.
     """
     m = matrix
     m.reverse()
